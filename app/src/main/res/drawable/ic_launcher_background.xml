@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define your desired shape for the background layer here -->
+    <solid android:color="#FF0000" /> <!-- Example: Red color background -->
+</shape>
